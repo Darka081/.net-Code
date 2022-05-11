@@ -1,0 +1,15 @@
+C:\Users\darka\Console\WarehouseManagement\WarehouseManagement.ConsoleApp\bin\Debug\net6.0\WarehouseManagement.ConsoleApp.exe
+C:\Users\darka\Console\WarehouseManagement\WarehouseManagement.ConsoleApp\bin\Debug\net6.0\WarehouseManagement.ConsoleApp.deps.json
+C:\Users\darka\Console\WarehouseManagement\WarehouseManagement.ConsoleApp\bin\Debug\net6.0\WarehouseManagement.ConsoleApp.runtimeconfig.json
+C:\Users\darka\Console\WarehouseManagement\WarehouseManagement.ConsoleApp\bin\Debug\net6.0\WarehouseManagement.ConsoleApp.dll
+C:\Users\darka\Console\WarehouseManagement\WarehouseManagement.ConsoleApp\bin\Debug\net6.0\WarehouseManagement.ConsoleApp.pdb
+C:\Users\darka\Console\WarehouseManagement\WarehouseManagement.ConsoleApp\obj\Debug\net6.0\WarehouseManagement.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\darka\Console\WarehouseManagement\WarehouseManagement.ConsoleApp\obj\Debug\net6.0\WarehouseManagement.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darka\Console\WarehouseManagement\WarehouseManagement.ConsoleApp\obj\Debug\net6.0\WarehouseManagement.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\darka\Console\WarehouseManagement\WarehouseManagement.ConsoleApp\obj\Debug\net6.0\WarehouseManagement.ConsoleApp.AssemblyInfo.cs
+C:\Users\darka\Console\WarehouseManagement\WarehouseManagement.ConsoleApp\obj\Debug\net6.0\WarehouseManagement.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\darka\Console\WarehouseManagement\WarehouseManagement.ConsoleApp\obj\Debug\net6.0\WarehouseManagement.ConsoleApp.dll
+C:\Users\darka\Console\WarehouseManagement\WarehouseManagement.ConsoleApp\obj\Debug\net6.0\refint\WarehouseManagement.ConsoleApp.dll
+C:\Users\darka\Console\WarehouseManagement\WarehouseManagement.ConsoleApp\obj\Debug\net6.0\WarehouseManagement.ConsoleApp.pdb
+C:\Users\darka\Console\WarehouseManagement\WarehouseManagement.ConsoleApp\obj\Debug\net6.0\WarehouseManagement.ConsoleApp.genruntimeconfig.cache
+C:\Users\darka\Console\WarehouseManagement\WarehouseManagement.ConsoleApp\obj\Debug\net6.0\ref\WarehouseManagement.ConsoleApp.dll
