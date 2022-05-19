@@ -1,0 +1,9 @@
+C:\Users\darka\Documents\GitHub\.net-Code\Razor\ShopApp\obj\Debug\net5.0\ShopApp.csproj.AssemblyReference.cache
+C:\Users\darka\Documents\GitHub\.net-Code\Razor\ShopApp\obj\Debug\net5.0\ShopApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darka\Documents\GitHub\.net-Code\Razor\ShopApp\obj\Debug\net5.0\ShopApp.AssemblyInfoInputs.cache
+C:\Users\darka\Documents\GitHub\.net-Code\Razor\ShopApp\obj\Debug\net5.0\ShopApp.AssemblyInfo.cs
+C:\Users\darka\Documents\GitHub\.net-Code\Razor\ShopApp\obj\Debug\net5.0\ShopApp.csproj.CoreCompileInputs.cache
+C:\Users\darka\Documents\GitHub\.net-Code\Razor\ShopApp\obj\Debug\net5.0\ShopApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\darka\Documents\GitHub\.net-Code\Razor\ShopApp\obj\Debug\net5.0\ShopApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\darka\Documents\GitHub\.net-Code\Razor\ShopApp\obj\Debug\net5.0\ShopApp.RazorAssemblyInfo.cache
+C:\Users\darka\Documents\GitHub\.net-Code\Razor\ShopApp\obj\Debug\net5.0\ShopApp.RazorAssemblyInfo.cs

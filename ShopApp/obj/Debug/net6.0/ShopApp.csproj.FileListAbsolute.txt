@@ -1,0 +1,15 @@
+C:\Users\darka\Documents\GitHub\.net-Code\ShopApp\bin\Debug\net6.0\ShopApp.exe
+C:\Users\darka\Documents\GitHub\.net-Code\ShopApp\bin\Debug\net6.0\ShopApp.deps.json
+C:\Users\darka\Documents\GitHub\.net-Code\ShopApp\bin\Debug\net6.0\ShopApp.runtimeconfig.json
+C:\Users\darka\Documents\GitHub\.net-Code\ShopApp\bin\Debug\net6.0\ShopApp.dll
+C:\Users\darka\Documents\GitHub\.net-Code\ShopApp\bin\Debug\net6.0\ShopApp.pdb
+C:\Users\darka\Documents\GitHub\.net-Code\ShopApp\obj\Debug\net6.0\ShopApp.csproj.AssemblyReference.cache
+C:\Users\darka\Documents\GitHub\.net-Code\ShopApp\obj\Debug\net6.0\ShopApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darka\Documents\GitHub\.net-Code\ShopApp\obj\Debug\net6.0\ShopApp.AssemblyInfoInputs.cache
+C:\Users\darka\Documents\GitHub\.net-Code\ShopApp\obj\Debug\net6.0\ShopApp.AssemblyInfo.cs
+C:\Users\darka\Documents\GitHub\.net-Code\ShopApp\obj\Debug\net6.0\ShopApp.csproj.CoreCompileInputs.cache
+C:\Users\darka\Documents\GitHub\.net-Code\ShopApp\obj\Debug\net6.0\ShopApp.dll
+C:\Users\darka\Documents\GitHub\.net-Code\ShopApp\obj\Debug\net6.0\refint\ShopApp.dll
+C:\Users\darka\Documents\GitHub\.net-Code\ShopApp\obj\Debug\net6.0\ShopApp.pdb
+C:\Users\darka\Documents\GitHub\.net-Code\ShopApp\obj\Debug\net6.0\ShopApp.genruntimeconfig.cache
+C:\Users\darka\Documents\GitHub\.net-Code\ShopApp\obj\Debug\net6.0\ref\ShopApp.dll

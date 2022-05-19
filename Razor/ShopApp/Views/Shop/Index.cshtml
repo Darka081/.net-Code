@@ -1,0 +1,28 @@
+﻿@model List<Shop>
+
+<h3>Testing Shop</h3>
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Name</th>
+      <th scope="col">Category</th>
+      <th scope="col">ExpiryDate</th>
+      <th scope="col">Actions</th>
+    </tr>
+  </thead>
+
+  <tbody>
+      @foreach (var shop in @Model)
+        {
+        <tr>
+          <th scope="row"></th>
+          <td>@shop.Name</td>
+          <td>@shop.Category</td>
+          <td>@shop.ExpiryDate</td>
+          <td>@Html.ActionLink("Remove", "Delete", "Shop", new { Name = @shop.Name})</td>
+        </tr>
+        }
+  </tbody>
+</table>

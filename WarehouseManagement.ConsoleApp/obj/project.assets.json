@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\darka\\Console\\WarehouseManagement\\WarehouseManagement.ConsoleApp\\WarehouseManagement.ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\darka\\Documents\\GitHub\\.net-Code\\WarehouseManagement.ConsoleApp\\WarehouseManagement.ConsoleApp.csproj",
       "projectName": "WarehouseManagement.ConsoleApp",
-      "projectPath": "C:\\Users\\darka\\Console\\WarehouseManagement\\WarehouseManagement.ConsoleApp\\WarehouseManagement.ConsoleApp.csproj",
+      "projectPath": "C:\\Users\\darka\\Documents\\GitHub\\.net-Code\\WarehouseManagement.ConsoleApp\\WarehouseManagement.ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\darka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\darka\\Console\\WarehouseManagement\\WarehouseManagement.ConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\darka\\Documents\\GitHub\\.net-Code\\WarehouseManagement.ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
